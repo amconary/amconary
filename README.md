@@ -13,7 +13,7 @@
 <h2>Software Projects:</h2>
 
 - <b>Python</b>
-  - [Project](link goes here)
+  - [Basic IP Scanner](link goes here)
 
 <h2>Connect with me:</h2>
 
