@@ -12,8 +12,10 @@
  
 <h2>Software Projects:</h2>
 
-- <b>Python</b>
+- <b>Bash</b>
   - [Basic IP Scanner](link goes here)
+- <b>Python</b>
+  - [Basic Port Scanner](https://github.com/amconary/Port-Scanner-Utility)
 
 <h2>Connect with me:</h2>
 
