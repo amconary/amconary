@@ -10,10 +10,10 @@
 - <b>Hacking Home Lab</b>
   - [Project](link goes here)
  
-<h2>Software Projects:</h2>
+<h2>Coding Projects:</h2>
 
 - <b>Bash</b>
-  - [Basic IP Scanner](link goes here)
+  - [Basic IP Scanner](https://github.com/amconary/IP-Scanner-Utility)
 - <b>Python</b>
   - [Basic Port Scanner](https://github.com/amconary/Port-Scanner-Utility)
 
