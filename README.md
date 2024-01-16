@@ -7,7 +7,7 @@
  
 <h2>Offensive Security Projects:</h2>
 
-- <b>Hacking Home Lab</b>
+- <b>AD Hacking Home Lab</b>
   - [Project](link goes here)
  
 <h2>Coding Projects:</h2>
