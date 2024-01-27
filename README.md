@@ -3,7 +3,7 @@
 <h2>Defensive Security Projects:</h2>
 
 - <b>SOC/SIEM Home Lab - In Progress </b>
-  - [Project](link goes here)
+  - [Future Project]
  
 <h2>Offensive Security Projects:</h2>
 
