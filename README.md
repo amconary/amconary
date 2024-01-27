@@ -8,7 +8,10 @@
 <h2>Offensive Security Projects:</h2>
 
 - <b>AD Hacking Home Lab - In Progress </b>
-  - [Project](link goes here)
+  - [Lab Setup](link goes here)
+  - [LLMNR Poisoning](link goes here)
+  - [SMB Relay Attack](link goes here)
+  - [Shell Access](link goes here)
  
 <h2>Coding Projects:</h2>
 
