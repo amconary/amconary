@@ -12,6 +12,7 @@
   - [LLMNR Poisoning](https://github.com/amconary/LLMNRpoisoning)
   - [SMB Relay Attack](https://github.com/amconary/SMBrelay)
   - [Shell Access](https://github.com/amconary/shellaccess)
+  - [Kerberoasting]()
  
 <h2>Coding Projects:</h2>
 
