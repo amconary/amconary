@@ -9,7 +9,7 @@
 
 - <b>AD Hacking Home Lab - In Progress </b>
   - [Lab Setup](https://github.com/amconary/AD-HackLab)
-  - [LLMNR Poisoning](link goes here)
+  - [LLMNR Poisoning](https://github.com/amconary/LLMNRpoisoning)
   - [SMB Relay Attack](link goes here)
   - [Shell Access](link goes here)
  
