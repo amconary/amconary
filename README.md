@@ -8,7 +8,7 @@
 <h2>Offensive Security Projects:</h2>
 
 - <b>AD Hacking Home Lab - In Progress </b>
-  - [Lab Setup](link goes here)
+  - [Lab Setup](https://github.com/amconary/AD-HackLab)
   - [LLMNR Poisoning](link goes here)
   - [SMB Relay Attack](link goes here)
   - [Shell Access](link goes here)
