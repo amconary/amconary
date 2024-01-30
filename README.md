@@ -3,7 +3,7 @@
 <h2>Defensive Security Projects:</h2>
 
 - <b>SIEM Home Lab - In Progress </b>
-  - [Azure Sentinel Home Lab]()
+  - [Azure Sentinel Home Lab](https://github.com/amconary/azuresentinel)
  
 <h2>Offensive Security Projects:</h2>
 
