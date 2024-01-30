@@ -2,8 +2,8 @@
 
 <h2>Defensive Security Projects:</h2>
 
-- <b>SOC/SIEM Home Lab - In Progress </b>
-  - [Future Project]
+- <b>SIEM Home Lab - In Progress </b>
+  - [Azure Sentinel Home Lab]()
  
 <h2>Offensive Security Projects:</h2>
 
